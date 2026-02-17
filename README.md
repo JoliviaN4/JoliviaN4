@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Preparing-Active-Directory-Infrastructure-in-Azure](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
  
 <h2>🤳Connect with me:</h2>
 
