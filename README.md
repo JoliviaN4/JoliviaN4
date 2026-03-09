@@ -4,7 +4,13 @@
 
 
 - <b>Full Lifecycle Active Directory Infrastructure Deployment in Microsoft Azure</b>
-  - [Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Azure-Infrastructure-Setup-for-Active-Directory-Deployment)
+  - [Deploying Active Directory Domain Services and Joining a Client to the Domain](https://github.com/JoliviaN4/Deploying-Active-Directory-Domain-Services-and-Joining-a-Client-to-the-Domain)
+  - [Automating Active Directory User Creation with PowerShell](https://github.com/JoliviaN4/Automating-Active-Directory-User-Creation-with-PowerShell)
+  - [Group Policy Configuration and Active Directory Account Management](https://github.com/JoliviaN4/Group-Policy-Configuration-and-Active-Directory-Account-Management)
+
+
+
  
 <h2>🤳Connect with me:</h2>
 
