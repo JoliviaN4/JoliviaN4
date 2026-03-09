@@ -4,7 +4,7 @@
 
 
 - <b>Full Lifecycle Active Directory Infrastructure Deployment in Microsoft Azure</b>
-  - [](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
  
 <h2>🤳Connect with me:</h2>
 
