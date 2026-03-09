@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-- <b>Full-Lifecycle-Active-Directory-Infrastructure-Deployment-in-Microsoft-Azure</b>
+- <b>Full Lifecycle of an Active Directory Environment</b>
   - [](https://github.com/JoliviaN4/Preparing-Active-Directory-Infrastructure-in-Azure)
  
 <h2>🤳Connect with me:</h2>
