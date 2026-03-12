@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
- - <b>Full Lifecycle Active Directory Infrastructure Deployment in Microsoft Azure</b>
+ - <b>Full Lifecycle of Active Directory Infrastructure in Microsoft Azure</b>
    - [Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Azure-Infrastructure-Setup-for-Active-Directory-Deployment)
    - [Deploying Active Directory Domain Services and Joining a Client to the Domain](https://github.com/JoliviaN4/Deploying-Active-Directory-Domain-Services-and-Joining-a-Client-to-the-Domain)
    - [Automating Active Directory User Creation with PowerShell](https://github.com/JoliviaN4/Automating-Active-Directory-User-Creation-with-PowerShell])
