@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-- <b>Full Lifecycle Active Directory Infrastructure Deployment in Microsoft Azure </b>
-  -[Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Azure-Virtual-Machine-Environment-Lab)
+ - <b>Full Lifecycle Active Directory Infrastructure Deployment in Microsoft Azure</b>
+   - [Azure Infrastructure Setup for Active Directory Deployment](https://github.com/JoliviaN4/Azure-Virtual-Machine-Environment-Lab)
  
 
 <h2>🤳Connect with me:</h2>
