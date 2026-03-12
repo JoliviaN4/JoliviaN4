@@ -4,7 +4,7 @@
 
 
 - <b>Designing a Windows Server Environment in Microsoft Azure</b>
-  - [Azure Virtual Machine Environment Lab](https://github.com/Azure-Virtual-Machine-Environment-Lab)
+  - [Azure Virtual Machine Environment Lab](https://github.com/JoliviaN4/Azure-Virtual-Machine-Environment-Lab/tree/main)
  
 
 <h2>🤳Connect with me:</h2>
