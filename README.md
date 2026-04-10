@@ -4,7 +4,7 @@
 
 
  - <b>Active Directory in Microsoft Azure</b>
-   - [Building and Managing an Active Directory Environment in Microsoft Azure](https://github.com/JoliviaN4/Designing-Active-Directory-Infrastructure-in-Azure)
+   - [Designing and Managing an Active Directory Environment in Microsoft Azure](https://github.com/JoliviaN4/Designing-Active-Directory-Infrastructure-in-Azure)
 
  
 <h2>🤳Connect with me:</h2>
